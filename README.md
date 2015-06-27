@@ -1,5 +1,5 @@
 # gittest
 giteのテスト  
 ここにはテストの説明を記載  
-rikimarutest
-
+rikimarutest  
+mail変更
